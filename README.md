@@ -19,7 +19,7 @@ It is important that the element the directive is applied to, has the **overflow
 ```
 
 ## To use it in your code
-Tu use the directive in your project just include the `Vue.directive()` call.
+To use the directive in your project just include the `Vue.directive()` call.
 
 
 
